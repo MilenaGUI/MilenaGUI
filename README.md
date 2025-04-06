@@ -52,12 +52,6 @@
 
 - [Py Autobot – Automação com Python (Power UP)](https://github.com/MilenaGUI/py-autobot)
 
----
-
-### 📢 Como me encontrar
-
-- Email: [guimaraesmilena999@gmail.com](mailto:guimaraesmilena999@gmail.com)
-- GitHub: [github.com/MilenaGUI](https://github.com/MilenaGUI)
 
 ---
 
